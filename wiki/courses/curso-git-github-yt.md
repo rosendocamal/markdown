@@ -21,6 +21,7 @@ tags:
   - status
   - course
   - backend
+  - fetch
 ---
 
 # Curso de Git y GitHub con Brais Mouredev
@@ -105,13 +106,13 @@ git reflog
 Cambiar nombre de rama:
 
 ```bash
-git brach -m NEW_NAME
+git branch -m NEW_NAME
 ```
 
 Para crear una rama:
 
 ```bash
-git brach NAME
+git branch NAME
 ```
 
 Para cambiar la rama donde estamos trabajando para trabajar en otra:
